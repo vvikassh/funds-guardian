@@ -61,10 +61,10 @@ A modern, responsive personal finance management application built with React an
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/smart-budget.git
+git clone https://github.com/<your-username>/funds-guardian.git
 
 # Navigate to project directory
-cd smart-budget
+cd funds-guardian
 
 # Install dependencies
 npm install
