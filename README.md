@@ -1,4 +1,4 @@
-# 💰 SmartBudget — Personal Finance & UPI Payment Tracker
+# 💰 BudgetPay — Personal Finance & UPI Payment Tracker
 
 A modern, responsive personal finance management application built with React and TypeScript. Track expenses across categories, manage budgets, simulate UPI payments, and visualize spending with interactive charts.
 
